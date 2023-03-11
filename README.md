@@ -64,4 +64,17 @@ JJCloud旗下的白嫖机场, 100G/月, 32个节点, 无限重置
 > 注册地址: [https://vpn.583180.xyz/#/register?code=GX6mnGnU](https://vpn.583180.xyz/#/register?code=GX6mnGnU)
 
 更多免费机场请到 [https://t.me/go4sharing](https://t.me/go4sharing)
-
+<!-- Default Statcounter code for 机场分享 https://airport-share.github.io/
+-->
+<script type="text/javascript">
+var sc_project=12857097; 
+var sc_invisible=1; 
+var sc_security="f38b2dfb"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12857097/0/f38b2dfb/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
