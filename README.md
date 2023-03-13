@@ -79,7 +79,7 @@ src="https://c.statcounter.com/12857097/0/f38b2dfb/1/" alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
+<script async src="//busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
 
 本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次
 
