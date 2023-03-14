@@ -87,9 +87,9 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 const gitalk = new Gitalk({
   clientID: 'd40cbb9458d545a48042',
   clientSecret: 'dc846eafb446b5b87f46af980a94c12a61bb9e69',
-  repo: 'GitHub repo',      // The repository of store comments,
-  owner: 'GitHub repo owner',
-  admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
+  repo: 'airport-share.github.io',      // The repository of store comments,
+  owner: 'airport-share',
+  admin: ['airport-share'],
   id: location.pathname,      // Ensure uniqueness and length less than 50
   distractionFreeMode: false  // Facebook-like distraction free mode
 })
