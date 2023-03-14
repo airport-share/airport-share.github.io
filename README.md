@@ -79,11 +79,21 @@ src="https://c.statcounter.com/12857097/0/f38b2dfb/1/" alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-<script async src="//busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
 
-本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次
+<script>
+const gitalk = new Gitalk({
+  clientID: 'd40cbb9458d545a48042',
+  clientSecret: 'dc846eafb446b5b87f46af980a94c12a61bb9e69',
+  repo: 'GitHub repo',      // The repository of store comments,
+  owner: 'GitHub repo owner',
+  admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
 
-本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
+gitalk.render('gitalk-container')
 
-本站总访客数 <span id="busuanzi_value_site_uv"></span> 人
-
+</script>
